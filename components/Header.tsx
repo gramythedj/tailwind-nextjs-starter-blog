@@ -40,6 +40,7 @@ const Header = () => {
         <SearchButton />
         <ThemeSwitch />
         <MobileNav />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KP230YEB4"></script>
       </div>
     </header>
   )
