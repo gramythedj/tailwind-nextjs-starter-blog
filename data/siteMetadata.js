@@ -96,6 +96,6 @@ const siteMetadata = {
 module.exports = siteMetadata
 
 
-<!-- Google tag (gtag.js) -->
+
 
 
